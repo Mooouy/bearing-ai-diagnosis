@@ -1,0 +1,8 @@
+/build/
+/build-hardware/
+/logs/
+/data/simulation/*
+!/data/simulation/.gitkeep
+*.png
+*.log
+/.worktrees/
